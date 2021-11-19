@@ -4,11 +4,12 @@
 - 💻 Swift, Objective-C e Flutter.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/DevAlphaPro">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devalphapro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalphapro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devalphapro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalphapro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Yan-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Yan-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
