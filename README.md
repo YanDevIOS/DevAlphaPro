@@ -1,6 +1,6 @@
 ## Olá, seja Bem-vindo!
 
-- 🧑‍💻 Trabalho como desenvolvimento iOS.
+- 🧑‍💻 Trabalho com desenvolvimento iOS.
 - 💻 Swift, Objective-C e Flutter.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
