@@ -1,7 +1,7 @@
 ## Olá, seja Bem-vindo!
 
 - 🧑‍💻 Trabalho com desenvolvimento iOS.
-- 💻 Swift, Objective-C e Flutter.
+- 💻 Swift e Objective-C.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
@@ -14,7 +14,6 @@
   <img align="center" alt="Yan-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Yan-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Yan-Objective-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
-  <img align="center" alt="Yan-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   
 </div>
   
