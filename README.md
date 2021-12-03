@@ -2,7 +2,6 @@
 
 - 🧑‍💻 Trabalho com desenvolvimento iOS.
 - 💻 Swift e Objective-C.
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
   <a href="https://github.com/DevAlphaPro">
