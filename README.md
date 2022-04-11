@@ -1,7 +1,7 @@
 ## Olá, seja Bem-vindo!
 
 - 🧑‍💻 Trabalho com desenvolvimento iOS.
-- 💻 Swift, SwiftUI e Objective-C.
+- 💻 Swift, SwiftUI, Storyboard, Viewcode.
 
 <div align="left">
   <a href="https://github.com/YanDevIOS">
