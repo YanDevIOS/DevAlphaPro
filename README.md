@@ -2,7 +2,7 @@
 
 - 📱 | iOS Developer 
 - 💻 | Swift, Objective-C
-- 🛠️| UIKit, SwiftUI
+- 🛠️ | UIKit, SwiftUI
 - 📚 | Sistemas de Informação
 - 🚀 | Membro fundador irmandadeswif
 
