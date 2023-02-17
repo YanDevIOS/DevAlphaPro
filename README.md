@@ -1,7 +1,10 @@
 ## Olá, seja Bem-vindo!
 
-- 🧑‍💻 Trabalho com desenvolvimento iOS.
-- 💻 Swift (UIKit, SwiftUI)
+- 📱 | iOS Developer 
+- 💻 | Swift, Objective-C
+- 🛠️| UIKit, SwiftUI
+- 📚 | Sistemas de Informação
+- 🚀 | Membro fundador irmandadeswif
 
 <div align="left">
   <a href="https://github.com/YanDevIOS">
