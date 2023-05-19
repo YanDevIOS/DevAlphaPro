@@ -2,9 +2,12 @@
 
 - 📱 | iOS Developer 
 - 💻 | Swift, Objective-C
-- 🛠️ | UIKit, SwiftUI
+- 🛠️ | View Code, Storyboard, Xib, SwiftUI
 - 📚 | Sistemas de Informação
-- 🚀 | Membro fundador irmandadeswif
+- 🚀 | Bootcamp Backfront
+- 🚀 | Membro fundador irmandadeSwift
+<br/><br/>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&left=true&vCenter=true&width=1000&lines=Welcome;I%27m+Yan+Alejandro;Swift+and+Objective-C;UIKit+e+SwiftUI;Swift+Developer+by+Apple;BackFront+Academy+Student)](https://git.io/typing-svg) -->
 
 <div align="left">
   <a href="https://github.com/YanDevIOS">
@@ -16,7 +19,6 @@
   <img align="center" alt="Yan-Apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Yan-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Yan-Objective-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg">
-  
 </div>
   
   ##
