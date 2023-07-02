@@ -2,7 +2,7 @@
 
 - 📱 | iOS Developer 
 - 💻 | Swift, Objective-C
-- 🛠️ | View Code, Storyboard, Xib, SwiftUI
+- 🛠️ | UIkit, SwiftUI
 - 📚 | Sistemas de Informação
 - 🚀 | Bootcamp Backfront
 - 🚀 | Membro fundador irmandadeSwift
